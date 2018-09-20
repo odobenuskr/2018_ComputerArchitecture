@@ -1,0 +1,8 @@
+Install SPIM on your  computer.
+
+Load trythis.s into SPIM.
+
+Step through the code using F10 key.
+
+Answer all questions in trythis.s and  submit those answers through ecampus.
+

@@ -1,0 +1,3 @@
+•Load hw2.s into SPIM.
+•Step through the code using F10 key.
+•Answer all questions and  submit those answers through ecampus.

@@ -1,0 +1,23 @@
+•Write a MIPS assembly source code which does the same thing as in the following C program segments.
+         (Make the array ‘a’ starts at address 0x10004000,
+
+          use $t1 for variable i,
+
+          do not use a pseudoinstruction )
+
+
+
+int a[] = { -1, 0x1234, 0x00ff };
+
+int main(){
+
+   for (int i=0; i<2; i++){
+
+     a[i] = a[i+1];
+
+   }
+
+}
+
+•Load your source into SPIM and confirm it works as intended.
+• Submit your assembly source code in ecampus. (Do not submit a file.)

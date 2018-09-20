@@ -1,0 +1,17 @@
+•Write a MIPS assembly source code which does the same thing as in the following C program segments.
+(Make the array ‘a’ starts at address 0x10004000)
+
+int a[] = { -1, 0x1234, 0x00ff };
+
+int main(){
+
+   a[0] = a[1];
+
+   a[1] = a[2];
+
+   a[2] = 10;
+
+}
+
+•Load your source into SPIM and confirm it works as intended.
+• Submit your assembly source code in ecampus. (Do not submit a file.)
