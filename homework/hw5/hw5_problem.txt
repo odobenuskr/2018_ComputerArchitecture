@@ -1,0 +1,10 @@
+Computer Architecture Homework5
+
+1)Explain why you get error message after you execute the last instruction of your homework 3 code.
+
+2)Complete your homework 3 code by adding a few extra lines of codes, so that it can avoid error message.
+
+•Load your source into SPIM and confirm it works as intended.
+
+3) Submit your answer to 1) and a fixed assembly source code in ecampus.
+(Do not submit a file.)
